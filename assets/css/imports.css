@@ -26,3 +26,21 @@
 @import url(receitas/receita-titulo.css);
 @import url(receitas/receita-descricao.css);
 @import url(receitas/receita-botao.css);
+
+/* QUEM SOMOS */
+
+@import url(quemSomos/quemSomos.css);
+@import url(quemSomos/quemSomos-titulo.css);
+@import url(quemSomos/quemSomos-descricao.css);
+
+  /* PESSOAS */
+  
+  @import url(quemSomos/pessoas/pessoas.css);
+  @import url(quemSomos/pessoas/pessoa.css);
+  @import url(quemSomos/pessoas/pessoa-imagem.css);
+  @import url(quemSomos/pessoas/pessoa-nome.css);
+  @import url(quemSomos/pessoas/pessoa-funcao.css);
+
+  /* RODAPE */
+
+  @import url(footer.css);
