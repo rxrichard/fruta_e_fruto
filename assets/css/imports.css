@@ -1,7 +1,7 @@
 @import url(variaveis.css);
 /* CABECALHO */
 @import url(cabecalho.css);
-
+@import url(logo.css);
 /* MENU */
 @import url(menu/menu-lista.css);
 @import url(menu/menu-item.css);
