@@ -1,0 +1,28 @@
+@import url(variaveis.css);
+/* CABECALHO */
+@import url(cabecalho.css);
+
+/* MENU */
+@import url(menu/menu-lista.css);
+@import url(menu/menu-item.css);
+@import url(menu/menu-link.css);
+
+/* BANNER */
+@import url(banner/banner.css);
+@import url(banner/banner-imagem.css);
+@import url(banner/banner-titulo.css);
+
+/* SOBRE */
+@import url(sobre/sobre.css);
+@import url(sobre/sobre-titulo.css);
+@import url(sobre/sobre-descricao.css);
+
+/* RECEITAS */
+
+@import url(receitas/receitas.css);
+@import url(receitas/receita.css);
+@import url(receitas/receita-imagem.css);
+@import url(receitas/receita-conteudo.css);
+@import url(receitas/receita-titulo.css);
+@import url(receitas/receita-descricao.css);
+@import url(receitas/receita-botao.css);
