@@ -13,7 +13,7 @@ Fruta e Fruto é um projeto desenvolvido no curso sobre arquitetura CSS da [Alur
 
 ## 🌐 Para acessar: 
 
-[Alura Store -  by Richard Bastos](https://rxrichard.github.io/fruta_e_fruto)
+[Fruta e Fruto-  by Richard Bastos](https://rxrichard.github.io/fruta_e_fruto)
 
 
 ## ⚙️ Ferramentas Utilizadas
